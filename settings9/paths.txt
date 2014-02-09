@@ -1,0 +1,2 @@
+~/Downloads/beast/bin/beast
+~/Downloads/beast/bin/loganalyser
